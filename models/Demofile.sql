@@ -1,0 +1,1 @@
+select booking_id,listing_id  from airbnb.staging.bookings
