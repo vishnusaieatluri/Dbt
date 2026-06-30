@@ -44,3 +44,6 @@ models:
       +materialized: table
     Practice_sess_View:
       +materialized: view
+    Practice_sess_Ephemeral:
+      +materialized: ephemeral
+    

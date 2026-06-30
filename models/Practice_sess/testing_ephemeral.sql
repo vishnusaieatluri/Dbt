@@ -1,0 +1,1 @@
+select * from {{ ref('pract_eph_2') }}
